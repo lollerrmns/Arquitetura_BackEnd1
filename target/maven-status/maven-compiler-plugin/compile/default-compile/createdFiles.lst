@@ -1,0 +1,13 @@
+com\org\calc\CalculatorSoap.class
+com\org\calc\ObjectFactory.class
+com\org\calc\package-info.class
+com\org\calc\Add.class
+com\org\Arquitetura_BackEnd1.class
+com\org\calc\AddResponse.class
+com\org\calc\Divide.class
+com\org\calc\MultiplyResponse.class
+com\org\calc\Calculator.class
+com\org\calc\DivideResponse.class
+com\org\calc\Subtract.class
+com\org\calc\Multiply.class
+com\org\calc\SubtractResponse.class
